@@ -1,0 +1,32 @@
+
+/*HEADER*/
+
+.headersito {
+    background-color: yellow;
+
+    height: 6rem;
+}
+
+
+/*BODY*/
+
+.bodysito {
+    background-color: blue;
+
+
+    position: relative;
+    top: 2rem;
+
+    height: 20rem;
+}
+
+/*FOOTER*/
+
+.footersito {
+    background-color: red;
+
+    position: relative;
+    top: 6rem;
+
+    height: 6rem;
+}
